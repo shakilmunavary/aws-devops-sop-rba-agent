@@ -61,3 +61,7 @@ Reset a test environment
 ```bash
 python cleanup_orders.py          # DRY RUN - lists orders it would delete
 python cleanup_orders.py --yes    # delete RITMs + empty REQs (run before deleting a catalog)
+
+
+![Uploading image.png…]()
+
